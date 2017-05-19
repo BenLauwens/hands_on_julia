@@ -1,0 +1,15 @@
+- intro:
+  - Why: Be
+  - juliabox: Ba
+- Day 1:
+  - 1+2: Be
+  - 3+4: Ba
+  - 5: Be
+  - 6+ in/output: Ba
+  - 7+8: Be
+- Day 2:
+  - 1-4: Be
+  - macro: Ba
+  - generated functions: Ba
+  - metaprogramming: Ba
+  - cluster: Ba
