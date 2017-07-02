@@ -1,1 +1,6 @@
 .ipynb_checkpoints
+texfigure.log
+texfigure.aux
+texfigure.pdf
+pgfplot.*
+*.out
