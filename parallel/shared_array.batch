@@ -1,0 +1,4 @@
+#!/bin/sh
+
+$HOME/julia/julia-0.6/bin/julia -p $SLURM_NTASKS shared_array.jl
+

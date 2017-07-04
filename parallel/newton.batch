@@ -1,0 +1,4 @@
+#!/bin/sh
+
+LD_PRELOAD=$HOME/.julia/v0.6/Conda/deps/usr/lib/libz.so $HOME/julia/julia-0.6/bin/julia -p $SLURM_NTASKS Newton.jl
+
